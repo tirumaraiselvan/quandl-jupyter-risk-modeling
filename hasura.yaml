@@ -1,11 +1,10 @@
-description: A quickstart show casing using Metabase for data visualisation using
-  data from Quandl.
-gitUrl: https://github.com/hasura/quandl-metabase
+description: Risk modeling and visualisation on financial data
+gitUrl: https://github.com/hasura/quandl-metabase-jupyter
 keywords: metabase, quandl, nodejs, node, express
 media:
   images:
   - https://raw.githubusercontent.com/hasura/quandl-metabase/master/assets/banner1.png
   - https://raw.githubusercontent.com/hasura/quandl-metabase/master/assets/banner2.png
   - https://raw.githubusercontent.com/hasura/quandl-metabase/master/assets/banner3.png
-name: quandl-metabase
+name: quandl-metabase-jupyter
 platformVersion: v0.15.18
