@@ -1,10 +1,10 @@
-description: Risk modeling and visualisation on financial data
-gitUrl: https://github.com/hasura/quandl-metabase-jupyter
-keywords: metabase, quandl, nodejs, node, express
+description: Modeling volatility based on simple GARCH model using Quandl dataset
+keywords: Fintech, data science, dataviz, python, jupyter, data visualisation, quandl,
+  financial modeling, garch
 media:
   images:
   - https://raw.githubusercontent.com/hasura/quandl-metabase/master/assets/banner1.png
   - https://raw.githubusercontent.com/hasura/quandl-metabase/master/assets/banner2.png
   - https://raw.githubusercontent.com/hasura/quandl-metabase/master/assets/banner3.png
-name: quandl-metabase-jupyter
+name: quandl-jupyter-risk-modeling
 platformVersion: v0.15.18
