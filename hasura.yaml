@@ -1,4 +1,5 @@
 description: Modeling volatility based on simple GARCH model using Quandl dataset
+gitUrl: https://github.com/hasura/quandl-jupyter-risk-modeling/
 keywords: Fintech, data science, dataviz, python, jupyter, data visualisation, quandl,
   financial modeling, garch
 media:
