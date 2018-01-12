@@ -3,7 +3,7 @@ const config = require('./config');
 
 function customRequest(options, callback, shouldLog) {
     if (shouldLog === null) {
-        shouldLog = false;
+        shouldLog = true;
     }
     if (shouldLog) {
         console.log('REQUEST OPTIONS-------------------------');
